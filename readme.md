@@ -33,7 +33,7 @@
 # Variable va Konstathoi JavaSctipt 
 ## Variable yak boxi kholii dar khotirai computer meboshad ki dar darunash informatsiya qabul mekunad
 ## Variablehoi var va let initializing meboshand va onhoro dar vaqti kor metavonem az nav faryod karda qimati nav dihem vale variablei const-ro dar hamon holat istifoda mebarem ki mo donem ki dar kori mo aliw nameshavad
-# qimat 2 khel meshavad Object va Primitiveho
+# Data Type 2 khel meshavad Object va Primitiveho
 # Objectho in collecsiyai propertiho ast:Object literal,Array,Function,etc!
 # Primitivho in dataest ki objedct nest va dar khud method yo property nadorad : Number,String,Boolean,Undefined,Null,Symbol,BigInt!
 # Qoidahoi nomguzorii variableho
@@ -45,14 +45,24 @@
 # Conditions,Loop,Functions
 ## YAkumin varianti conditioni mo misli if dar zaboni c++ ast
 ## duvum varianti conditioni mo in switch case ast
-## For to vaqti misoli mo true boshad kor mekunad va misli dar zaboni c++ navishtameshavad
-## While halqae mesozad va az se ifoda iborat ast 2 ifodahoi on dar darunash navishta meshavad va to misoli mo true shidana kor mekunad
+## For to vaqti misoli mo true boshad kor mekunad va misli dar zaboni c++ navishtameshavad:
+![alt text](code.png)
+## While halqae mesozad va az se ifoda iborat ast 2 ifodahoi on dar darunash navishta meshavad va to misoli mo true shidana kor mekunad:
+![alt text](code2.png)
 ## do while halqae mesozad ki to vaqti false nashudan kor mekunad va do dar bolo navishta shuda while berun az skobkahoi do navishta meshavad
+![alt text](<code 7.png>)
 # 3 rohi navishtani functionro dorem:
 ## 1.function declaration
 ## 2.function Expression-2 rohi digar dorad-(1.Arrow,2.Anonymous Function)
 ## 3.Immediately Invoked Function Expression(IIFE)
 # 1.funcsiyai 1kum bo keywordi function navishta meshavad va nom talab mekunad
+![alt text](<code 3.png>)
 # 2.funcsiyai 2yum bo 2roh:
 ## 1.bo vositai anonymous
 ## 2.bo vositai arrow
+# 1:
+![alt text](<code 4.png>)
+# 2:
+![alt text](<code 5.png>)
+# 3.3-yum function IIFE funksiyae ki yag bor skhta meshavad va yag bor faryod karda meshavad:
+![alt text](<code 6.png>)
